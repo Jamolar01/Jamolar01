@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jamolar01
+- 🌱 I’m currently learning software automation and other tools to solidify my testing knowledge 
+- 💞️ I’m looking to collaborate on QA trainings and certification
+- 📫 How to reach me: email me Jamiuahmedola@gmail.com
+- ⚡ Fun fact: I transitioned from being a chemist to a technical support  and now a quality assurance engineer
